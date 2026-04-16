@@ -1,4 +1,4 @@
 ### Matteo Pedani
 
 
-![[virzi.jpg]]
+![[virzi.jpg]][[source/content/index]]
