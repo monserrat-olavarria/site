@@ -1,7 +1,6 @@
 ---
 title: Blog di monserrat Olavarria Balmaceda
 ---
+L'abiminevole
 
-Hello world!
-
-Write some words here!
+![[virzi.jpg]]
