@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/index.md",
+                "file": "source/content/category-folder/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -195,13 +195,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3798565b8618b414",
+  "active": "8812a55c514fbc49",
   "lastOpenFiles": [
-    "virzi.jpg",
+    "source/content/virzi.jpg",
+    "source/content/category-folder/Some note.md",
     "source/content/index.md",
     "Senza nome.canvas",
+    "source/content/virzi.jpg",
     "source/content/category-folder/index.md",
-    "source/content/category-folder/Some note.md",
     "README.md",
     "source/docs/migrating from Quartz 3.md",
     "source/docs/configuration.md",
