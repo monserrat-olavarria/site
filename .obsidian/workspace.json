@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "source/content/category-folder/index.md",
+                "file": "source/content/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,12 +197,13 @@
   },
   "active": "68f4369a4de0d11a",
   "lastOpenFiles": [
-    "source/content/index.md",
     "source/content/category-folder/index.md",
+    "source/content/index.md",
     "source/content/virzi.jpg",
+    "source/quartz/static/og-image.png",
+    "source/quartz/static/icon.png",
     "source/content/category-folder/Some note.md",
     "Senza nome.canvas",
-    "source/content/virzi.jpg",
     "README.md",
     "source/docs/migrating from Quartz 3.md",
     "source/docs/configuration.md",
