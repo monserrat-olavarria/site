@@ -1,7 +1,7 @@
 ---
 title: Blog di Monserrat Olavarria Balmaceda
 ---
-L'abiminevole
+\L'abiminevole
 
 
 ![[virzi.jpg]]
